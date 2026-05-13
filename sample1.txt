@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello World from B2
-=======
-Hello World from A2
->>>>>>> main
+Hello World from A and B
